@@ -13,5 +13,5 @@
 
 * [Java](language/java/README.md)
   * [stream method 중 map과 flatmap 차이점](language/java/stream-method-map-flatmap.md)
-  * [스프링의 특성 - DI, IoC, PSA, AOP 등](language/java/di-ioc-psa-aop.md)
+  * [추상클래스와 인터페이스의 차이점 및  사용목적](language/java/undefined.md)
 * [Kotlin](language/kotlin.md)
