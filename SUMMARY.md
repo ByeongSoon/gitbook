@@ -1,6 +1,9 @@
 # Table of contents
 
 * [gitbook](README.md)
+* [Basic](basic/README.md)
+  * [Page 3](basic/page-3.md)
+  * [Page 1](basic/page-1.md)
 
 ## Spring
 
