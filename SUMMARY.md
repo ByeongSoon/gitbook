@@ -12,6 +12,7 @@
 ## Language
 
 * [Java](language/java/README.md)
+  * [객체지향이란?](language/java/undefined.md)
   * [stream method 중 map과 flatmap 차이점](language/java/stream-method-map-flatmap.md)
-  * [추상클래스와 인터페이스의 차이점 및  사용목적](language/java/undefined.md)
+  * [추상클래스와 인터페이스의 차이점 및  사용목적](language/java/undefined-1.md)
 * [Kotlin](language/kotlin.md)
