@@ -2,8 +2,9 @@
 
 * [gitbook](README.md)
 * [Basic](basic/README.md)
-  * [Page 3](basic/page-3.md)
-  * [Page 1](basic/page-1.md)
+  * [OOP](basic/oop/README.md)
+    * [객체지향이란?](basic/oop/undefined.md)
+    * [객체지향 5대 원칙 - SOLID](basic/oop/5-solid.md)
 
 ## Spring
 
@@ -15,7 +16,6 @@
 ## Language
 
 * [Java](language/java/README.md)
-  * [객체지향이란?](language/java/undefined.md)
   * [stream method 중 map과 flatmap 차이점](language/java/stream-method-map-flatmap.md)
-  * [추상클래스와 인터페이스의 차이점 및  사용목적](language/java/undefined-1.md)
+  * [추상클래스와 인터페이스의 차이점 및  사용목적](language/java/undefined.md)
 * [Kotlin](language/kotlin.md)
