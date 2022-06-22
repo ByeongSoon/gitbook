@@ -2,7 +2,7 @@
 
 * [gitbook](README.md)
 * [Basic](basic/README.md)
-  * [싱글톤 패턴](basic/undefined.md)
+  * [싱글톤 패턴](<language/java/undefined (1).md>)
   * [REST API](basic/rest-api.md)
   * [OOP](basic/oop/README.md)
     * [객체지향이란?](basic/oop/undefined.md)
