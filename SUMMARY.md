@@ -1,6 +1,6 @@
 # Table of contents
 
-* [gitbook](README.md)
+* [백엔드 기술면접 대비](README.md)
 * [Basic](basic/README.md)
   * [싱글톤 패턴](<language/java/undefined (1).md>)
   * [REST API](basic/rest-api.md)
