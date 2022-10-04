@@ -1,5 +1,5 @@
 ---
-description: Spring Boot에 관한 지식 저장소
+description: Kotlin 에 관한 지식 저장소
 ---
 
 # Kotlin

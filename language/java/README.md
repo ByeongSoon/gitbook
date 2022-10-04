@@ -1,5 +1,5 @@
 ---
-description: Java 기초에 관한 지식 저장소
+description: Java에 관한 지식 저장소
 ---
 
 # Java
