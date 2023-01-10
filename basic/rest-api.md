@@ -84,29 +84,29 @@ REST API의 설계 규칙을 올바르게 지킨 시스템을 RESTful 하다고 
 **1. URI는 동사 보다는 명사를, 대문자 보다는 소문자를 사용한다.**
 
 ```
-https://velog.io/@carrotsman91/shit
+https://medium.com/@byeongsoon94/test
 ```
 
 **2. 마지막에 슬래시(/)를 포함하지 않는다.**
 
 ```
-https://velog.io/@carrotsman91/shit
+https://medium.com/@byeongsoon94/test
 ```
 
 **3. 언더바(\_) 대신 하이픈(-)를 사용한다.**
 
 ```
-https://velog.io/@carrotsman91/carrots-shit
+https://medium.com/@byeongsoon94/blog-test
 ```
 
 **4. URI는 행위를 포함하지 않는다.**
 
 ```
-https://velog.io/@carrotsman91/carrots/1
+https://medium.com/@byeongsoon94/test/write
 ```
 
 **5. 파일확장자는 URI에 포함하지 않는다.**
 
 ```
-https://velog.io/@carrotsman91/carrotsShit
+https://medium.com/@byeongsoon94/test.png
 ```
