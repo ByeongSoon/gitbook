@@ -12,7 +12,7 @@
 ## Spring
 
 * [Spring](spring/spring/README.md)
-  * [스프링 트라이앵글 - IoC, PSA, AOP(작성중)](spring/spring/di-ioc-psa-aop.md)
+  * [스프링 트라이앵글 - IoC, AOP, PSA](spring/spring/ioc-aop-psa.md)
   * [스프링 DI](spring/spring/di.md)
   * [Filter와 Interceptor 그리고 AOP](spring/spring/filter-interceptor-aop.md)
 * [Spring Boot](spring/spring-boot.md)
