@@ -2,6 +2,10 @@
 
 * [백엔드 기술면접 대비](README.md)
 * [Basic](basic/README.md)
+  * [HTTP](basic/http/README.md)
+    * [HTTP 메서드와 각 메서드의 역할은?(작성중)](basic/http/http.md)
+    * [멱등성과 멱등성을 지원하는 HTTP 메서드는?(작성중)](basic/http/http-1.md)
+    * [HTTPS란?(작성중)](basic/http/https.md)
   * [싱글톤 패턴](<language/java/undefined (1).md>)
   * [REST API](basic/rest-api.md)
   * [DTO, VO, ENTITY 차이점](spring/spring/dto-vo-entity.md)
@@ -12,7 +16,7 @@
 ## Spring
 
 * [Spring](spring/spring/README.md)
-  * [스프링 트라이앵글 - IoC, AOP, PSA](spring/spring/ioc-aop-psa.md)
+  * [스프링 트라이앵글 - IoC, AOP, PSA](spring/spring/di-ioc-psa-aop.md)
   * [스프링 DI](spring/spring/di.md)
   * [Filter와 Interceptor 그리고 AOP](spring/spring/filter-interceptor-aop.md)
 * [Spring Boot](spring/spring-boot.md)
