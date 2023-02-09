@@ -4,7 +4,7 @@
 * [Basic](basic/README.md)
   * [HTTP](basic/http/README.md)
     * [HTTP 메서드와 각 메서드의 역할은?](basic/http/http.md)
-    * [멱등성과 멱등성을 지원하는 HTTP 메서드는?(작성중)](basic/http/http-1.md)
+    * [멱등성과 멱등성을 지원하는 HTTP 메서드는?](basic/http/http-1.md)
     * [HTTPS란?(작성중)](basic/http/https.md)
   * [싱글톤 패턴](<language/java/undefined (1).md>)
   * [REST API](basic/rest-api.md)
