@@ -29,7 +29,7 @@
   * [Reflection 이란?](language/java/reflection.md)
   * [스레드 vs 멀티 스레드(작성중)](language/java/....md)
   * [해시 충돌(hashMap,hashSet...)(작성중)](language/java/hashmap-hashset....md)
-  * [ArrayList와 LinkedList의 차이점(작성중)](language/java/arraylist-linkedlist.md)
+  * [ArrayList와 LinkedList의 차이점](language/java/arraylist-linkedlist.md)
   * [final 키워드를 사용하면?](language/java/final.md)
   * [람다식(Lambda Expression)이란?](language/java/undefined.md)
   * [Stream이란?](language/java/stream.md)
