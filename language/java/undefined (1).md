@@ -1,36 +1,51 @@
 ---
-description: 디자인 패턴 중에서 싱글톤 패턴에 대하여 알아본다.
+description: 자바 혹은 코틀린에서 사용하는 람다식에 대하여 알아본다.
 ---
 
-# 싱글톤 패턴
+# 람다식(Lambda Expression)이란?
 
-객체를 생성할 때 하나의 인스턴스만 존재해야되는 경우가 몇가지 있다.&#x20;
+### 람다식이란?
 
-예를들면 사무실의 프린트, 커피머신 등이 있겠다.
+람다식이란 함수를 하나의 식(Expression)으로 표현한 것이다. 함수를 람다식으로 표현하면 메서드의 이름이 없기 때문에 익명함수(Anonymous Function)의 한 종류라고 볼 수 있다. 람다식 내에서 사용하는 지역변수는 final 키워드가 없어도 상수로 간주되며 람다식으로 선언된 변수명은 다른 변수명과 중복될 수 없다.
 
-**Single Thread** 에서는 문제가 없지만 **Multi Thread** 에서는 접근시에 여러 개의 객체가 생성될 수 있기 때문에 문제가 발생한다.
+{% hint style="info" %}
+익명함수란 함수의 이름이 없는 함수로, 익명 함수들은 일급 시민(First Class Citizen)라는 특징을 가지고 있다.&#x20;
 
-싱글톤 패턴의 여러가지 해법이 있지만 이번 글에서는 LazyHolder를 이용한 방법을 소개한다.
+일급 시민이란 일반적으로 다른 객체 들에 적용 가능한 연산을 모두 지원하는 객체를 가르킨다.
+{% endhint %}
 
-```
-public class CoffeeMachine {
-
-  private CoffeeMachine() {
-    System.out.println("wisoft 커피자판기 입니다.");
-  }
-
-  public static CoffeeMachine getInstance() {
-    return LazyHolder.INSTANCE;
-  }
-
-  private static class LazyHolder {
-    private static final CoffeeMachine INSTANCE = new CoffeeMachine();
-  }
+```java
+// 기존 함수 선언 방식
+반환타입 메서드명 (매개변수, ...) {
+    실행문..
 }
+
+public String hellowWorld() {
+    return "Hello World!";
+}
+public int increaseNumber(int n) {
+    return n + 1;
+}
+
+
+// 람다식 적용 방식
+(매개변수, ...) -> { 실행문 ... }
+
+() -> "Hello World!";
+(int n) -> { return n + 1; }
 ```
 
-위의 코드처럼 객체의 생성을 CoffeeMachine의 getInstance()를 통해서한다. 객체가 필요할 때까지 초기화를 미루는 것이다.
+### 람다의 장점과 단점
 
-Class를 로딩하고 초기화하는 시점에는 Thread Safe가 보장되기 때문에 다른 방법들 처럼 synchronized가 필요하지 않다.
+* 장점
+  * 코드의 간결성이 좋아진다.(불필요한 반복문 제거 및 코드 단순화 가능)
+  * 함수를 정의할 필요 없이 한 번에 처리할 수 있어 생산성이 높아진다.
+  * 지연연산을 수행함으로써 불필요한 연산을 최소화 할 수 있다.
+  * 병렬처리 가능
+* 단점
+  * 호출이 까다롭다.
+  * 람다 stream 사용 시 단순 for문이나 while문 사용 시보다 성능이 떨어진다.
+  * 불필요하게 마구잡이로 사용한다면 가독성을 떨어뜨린다.
+  * 익명함수는 재사용이 불가하다.
+  * 디버깅이 어렵다.
 
-LazyHolder 방법은 Java 버전도 상관이 없고, 성능또한 뛰어나서 현재까지 가장 완벽하다는 평가를 받고있다.
