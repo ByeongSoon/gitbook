@@ -29,6 +29,7 @@
 * [스레드 vs 멀티 스레드(작성중)](language/java/....md)
 * [Reflection 이란?](language/java/reflection.md)
 * [Java](language/java/README.md)
+  * [Enum 사용해보셨나요? Enum이란 무엇인가요?(작성중)](language/java/enum-enum.md)
   * [Overriding과 Overloading](language/java/overriding-overloading.md)
   * [추상클래스와 인터페이스의 차이점 및  사용목적](language/java/undefined-1.md)
   * [ArrayList와 LinkedList의 차이점](language/java/arraylist-linkedlist.md)
