@@ -10,7 +10,7 @@
     * [HTTP 메서드와 각 메서드의 역할은?](basic/http/http.md)
     * [멱등성과 멱등성을 지원하는 HTTP 메서드는?](basic/http/http-1.md)
     * [HTTPS란?(작성중)](basic/http/https.md)
-  * [싱글톤 패턴](<language/java/undefined (1).md>)
+  * [싱글톤 패턴](<language/java/undefined (1) (1).md>)
   * [REST API](basic/rest-api.md)
   * [DTO, VO, ENTITY 차이점](spring/spring/dto-vo-entity.md)
   * [OOP](basic/oop/README.md)
@@ -20,6 +20,7 @@
 ## Spring
 
 * [Spring](spring/spring/README.md)
+  * [스프링 의존성 주입 방법 3가지는?(작성중)](spring/spring/3.md)
   * [스프링 트라이앵글 - IoC, AOP, PSA](spring/spring/di-ioc-psa-aop.md)
   * [스프링 DI](spring/spring/di.md)
   * [Filter와 Interceptor 그리고 AOP](spring/spring/filter-interceptor-aop.md)
@@ -40,5 +41,5 @@
   * [제네릭이란?](language/java/undefined-2.md)
   * [Stream이란?](language/java/stream.md)
   * [stream method 중 map과 flatmap 차이점](language/java/stream-method-map-flatmap.md)
-  * [람다식(Lambda Expression)이란?](<language/java/undefined (2).md>)
+  * [람다식(Lambda Expression)이란?](<language/java/undefined (1).md>)
 * [Kotlin](language/kotlin.md)
