@@ -23,7 +23,7 @@
   * [스프링 의존성 주입 방법 3가지는?(작성중)](spring/spring/3.md)
   * [스프링 트라이앵글 - IoC, AOP, PSA](spring/spring/di-ioc-psa-aop.md)
   * [스프링 DI](spring/spring/di.md)
-  * [Filter와 Interceptor 그리고 AOP](spring/spring/filter-interceptor-aop.md)
+  * [Filter와 Interceptor](spring/spring/filter-interceptor.md)
 * [Spring Boot](spring/spring-boot.md)
 
 ## Language
