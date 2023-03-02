@@ -34,7 +34,7 @@
 * [Java](language/java/README.md)
   * [동일성(Identity)과 동등성(Equality) 비교](language/java/identity-equality.md)
   * [자바의 컬렉션에 대해 설명해주세요(작성중)](language/java/undefined.md)
-  * [Enum 사용해보셨나요? Enum이란 무엇인가요?(작성중)](language/java/enum-enum.md)
+  * [Enum 사용해보셨나요? Enum이란 무엇인가요?](language/java/enum-enum.md)
   * [Overriding과 Overloading](language/java/overriding-overloading.md)
   * [추상클래스와 인터페이스의 차이점 및  사용목적](language/java/undefined-1.md)
   * [ArrayList와 LinkedList의 차이점](language/java/arraylist-linkedlist.md)
