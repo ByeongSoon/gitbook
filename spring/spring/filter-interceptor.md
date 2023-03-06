@@ -2,7 +2,7 @@
 description: 스프링에서 필터와 인터셉터의 차이점을 알아보고 AOP도 알아본다.
 ---
 
-# Filter와 Interceptor 그리고 AOP
+# Filter와 Interceptor
 
 필터는 서블릿 컨테이너 이전에 공통적으로 처리해야되는 부분을 처리한다.&#x20;
 
@@ -10,7 +10,7 @@ description: 스프링에서 필터와 인터셉터의 차이점을 알아보고
 
 필터, 인터셉터 그리고 AOP는 모두 다른 기능이다. 처리하는 일과 기능이 구현된 위치가 다르다.
 
-![](<../../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (1) (1).png>)
 
 ![](../../.gitbook/assets/image.png)
 
