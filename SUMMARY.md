@@ -4,7 +4,7 @@
 * [면접 질문 관련 사이트 모음](undefined.md)
 * [Basic](basic/README.md)
   * [세션과 쿠키의 차이는?(작성중)](basic/undefined.md)
-  * [JWT에 대해 설명해주세요, 사용하면 장점과 단점?(작성중)](basic/jwt/README.md)
+  * [JWT에 대해 설명해주세요, 사용하면 장점과 단점?](basic/jwt/README.md)
     * [JWT 토큰이 아닌 인증 기능 구현을 하기 위한 다른 방법은 뭐가 있을까요?(작성중)](basic/jwt/jwt.md)
   * [HTTP](basic/http/README.md)
     * [HTTP 메서드와 각 메서드의 역할은?](basic/http/http.md)

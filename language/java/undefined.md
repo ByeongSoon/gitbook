@@ -4,7 +4,7 @@ description: 다수의 데이터를 다루는데 표준화된 클래스들을 �
 
 # Java의 Collection이란?
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Collection 이란?
 
