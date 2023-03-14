@@ -12,7 +12,7 @@ description: 스프링에서 필터와 인터셉터의 차이점을 알아보고
 
 ![](<../../.gitbook/assets/image (1) (1).png>)
 
-![](<../../.gitbook/assets/image (2).png>)
+![](<../../.gitbook/assets/image (1).png>)
 
 #### 필터(Filter)
 
