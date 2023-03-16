@@ -10,9 +10,9 @@ description: 스프링에서 필터와 인터셉터의 차이점을 알아보고
 
 필터, 인터셉터 그리고 AOP는 모두 다른 기능이다. 처리하는 일과 기능이 구현된 위치가 다르다.
 
-![](<../../.gitbook/assets/image (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (1) (1).png>)
 
-![](<../../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (2).png>)
 
 #### 필터(Filter)
 
