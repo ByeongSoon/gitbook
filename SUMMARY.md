@@ -21,7 +21,7 @@
 ## Spring
 
 * [Spring](spring/spring/README.md)
-  * [@Transactional에 대해서 설명해주세요.(작성중)](spring/spring/transactional-..md)
+  * [@Transactional에 대해서 설명해주세요.](spring/spring/transactional-..md)
   * [스프링 의존성 주입 방법 3가지는?](spring/spring/3.md)
   * [스프링 트라이앵글 - IoC, AOP, PSA](spring/spring/di-ioc-psa-aop.md)
   * [스프링 DI](spring/spring/di.md)
