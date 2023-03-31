@@ -28,7 +28,7 @@
   * [스프링 트라이앵글 - IoC, AOP, PSA](spring/spring/di-ioc-psa-aop.md)
   * [스프링 DI](spring/spring/di.md)
   * [Filter와 Interceptor](spring/spring/filter-interceptor.md)
-* [Spring Boot](spring/spring-boot.md)
+* [Spring Data JPA](spring/spring-data-jpa.md)
 
 ## Language
 
