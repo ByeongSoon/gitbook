@@ -34,6 +34,7 @@
 ## Language
 
 * [Java](language/java/README.md)
+  * [일급 컬렉션이란?(작성중)](<language/java/undefined (1).md>)
   * [Reflection 이란?](language/java/reflection.md)
   * [스레드 vs 멀티 스레드(작성중)](language/java/....md)
   * [해시 충돌(hashMap,hashSet...)(작성중)](language/java/hashmap-hashset....md)
@@ -48,5 +49,5 @@
   * [제네릭이란?](language/java/undefined-2.md)
   * [Stream이란?](language/java/stream.md)
   * [stream method 중 map과 flatmap 차이점](language/java/stream-method-map-flatmap.md)
-  * [람다식(Lambda Expression)이란?](<language/java/undefined (1).md>)
+  * [람다식(Lambda Expression)이란?](<language/java/undefined (1) (2).md>)
 * [Kotlin](language/kotlin.md)
