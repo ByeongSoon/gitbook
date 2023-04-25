@@ -3,6 +3,7 @@
 * [백엔드 기술면접 대비](README.md)
 * [면접 질문 관련 사이트 모음](undefined.md)
 * [Basic](basic/README.md)
+  * [기술적인 부분을 포함해서 1분 자기소개를 해봐라.(작성중)](basic/1-..md)
   * [무중단 배포 방법을 알고있는가?](basic/undefined/README.md)
     * [A/B 테스트란 무엇인가?(작성중)](basic/undefined/a-b.md)
   * [세션과 쿠키의 차이는?](basic/undefined.md)
