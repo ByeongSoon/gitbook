@@ -30,7 +30,8 @@
   * [스프링 트라이앵글 - IoC, AOP, PSA](spring/spring/di-ioc-psa-aop.md)
   * [스프링 DI](spring/spring/di.md)
   * [Filter와 Interceptor](spring/spring/filter-interceptor.md)
-* [Spring Data JPA](spring/spring-data-jpa.md)
+* [Spring Data JPA](spring/spring-data-jpa/README.md)
+  * [N+1 문제가 무엇이고, 해결 방법은 어떤 것인가?(작성중)](spring/spring-data-jpa/n+1.md)
 
 ## Language
 
