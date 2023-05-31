@@ -57,7 +57,7 @@
 ## Database
 
 * [Basic](database/basic/README.md)
-  * [SQL과 NoSQL 데이터베이스의 차이점은?(작성중)](database/basic/sql-nosql/README.md)
-    * [Redis란 무엇인가?(작성중)](database/basic/sql-nosql/redis.md)
+  * [SQL과 NoSQL 데이터베이스의 차이점은?(작성중)](database/basic/sql-nosql.md)
+    * [Redis란 무엇인가?](database/basic/sql-nosql/redis.md)
   * [인덱스(Index)란?](database/basic/index.md)
   * [MySQL에서 Join과 UNION의 차이점은?(작성중)](database/basic/mysql-join-union.md)
