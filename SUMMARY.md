@@ -5,7 +5,7 @@
 * [Basic](basic/README.md)
   * [기술적인 부분을 포함해서 1분 자기소개를 해봐라.(작성중)](basic/1-..md)
   * [무중단 배포 방법을 알고있는가?](basic/undefined/README.md)
-    * [A/B 테스트란 무엇인가?(작성중)](basic/undefined/a-b.md)
+    * [A/B 테스트란 무엇인가?](basic/undefined/a-b.md)
   * [세션과 쿠키의 차이는?](basic/undefined.md)
     * [세션을 이용한 인증 기능을 사용할 때 서버를 다중화 한다면 문제점과 해결방안은?(Sticky Session)](basic/undefined/sticky-session.md)
   * [JWT에 대해 설명해주세요, 사용하면 장점과 단점?](basic/jwt/README.md)
