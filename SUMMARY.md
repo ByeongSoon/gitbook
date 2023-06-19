@@ -24,7 +24,6 @@
 ## Spring
 
 * [Spring](spring/spring/README.md)
-  * [Redis란?](spring/spring/redis.md)
   * [@Transactional에 대해서 설명해주세요.](spring/spring/transactional-..md)
   * [스프링 의존성 주입 방법 3가지는?](spring/spring/3.md)
   * [스프링 트라이앵글 - IoC, AOP, PSA](spring/spring/di-ioc-psa-aop.md)
@@ -59,5 +58,6 @@
 * [Basic](database/basic/README.md)
   * [SQL과 NoSQL 데이터베이스의 차이점은?(작성중)](database/basic/sql-nosql.md)
     * [Redis란 무엇인가?](database/basic/sql-nosql/redis.md)
+  * [Redis란?](database/basic/redis.md)
   * [인덱스(Index)란?](database/basic/index.md)
   * [MySQL에서 Join과 UNION의 차이점은?(작성중)](database/basic/mysql-join-union.md)
