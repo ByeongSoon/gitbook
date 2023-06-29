@@ -59,7 +59,7 @@
 ## Database
 
 * [Basic](database/basic/README.md)
-  * [트랜잭션 격리수준(Isolation Level)이란?(작성중)](database/basic/isolation-level.md)
+  * [트랜잭션 격리수준(Isolation Level)이란?(링크)](database/basic/isolation-level.md)
   * [낙관적 락(Optimistic Lock) 과 비관적 락(Pessimistic Lock)이란?](database/basic/optimistic-lock-pessimistic-lock.md)
   * [RDB와 NoSQL 데이터베이스의 차이점은?(작성중)](database/basic/rdb-nosql/README.md)
     * [Redis란 무엇인가?](database/basic/rdb-nosql/redis.md)
