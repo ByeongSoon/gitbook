@@ -16,6 +16,7 @@
     * [HTTP 메서드와 각 메서드의 역할은?](basic/http/http.md)
     * [멱등성과 멱등성을 지원하는 HTTP 메서드는?](basic/http/http-1.md)
     * [HTTPS란?](basic/http/https.md)
+    * [Stateful과 Stateless란?](basic/http/stateful-stateless.md)
   * [싱글톤 패턴](<language/java/undefined (1) (1).md>)
   * [REST API](basic/rest-api.md)
   * [DTO, VO, ENTITY 차이점](spring/spring/dto-vo-entity.md)
