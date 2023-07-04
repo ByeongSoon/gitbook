@@ -2,10 +2,10 @@
 
 * [백엔드 기술면접 대비](README.md)
 * [면접 질문 관련 사이트 모음](undefined.md)
+* [기술적인 부분을 포함해서 1분 자기소개를 해주세요.](1-..md)
 * [Basic](basic/README.md)
   * [OSI 7계층이란 무엇인가?](basic/osi-7.md)
   * [대칭키와 비대칭키 암호화 방식의 차이는?](basic/undefined.md)
-  * [기술적인 부분을 포함해서 1분 자기소개를 해주세요.](basic/1-..md)
   * [무중단 배포 방법을 알고있는가?](basic/undefined-1/README.md)
     * [A/B 테스트란 무엇인가?](basic/undefined-1/a-b.md)
   * [세션과 쿠키의 차이는?](basic/undefined-2/README.md)
