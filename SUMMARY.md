@@ -34,7 +34,7 @@
   * [스프링 의존성 주입 방법 3가지는?](spring/spring/3.md)
   * [스프링 트라이앵글 - IoC, AOP, PSA](spring/spring/di-ioc-psa-aop.md)
   * [스프링 DI](spring/spring/di/README.md)
-    * [같은 인터페이스의 구현체 클래스 두 개 이상이 빈으로 등록되면 어떻게 의존성 주입을 해줄 수 있는가?(작성중)](spring/spring/di/undefined.md)
+    * [같은 인터페이스의 구현체 클래스 두 개 이상이 빈으로 등록되면 어떻게 의존성을 주입 할 수 있는가?](spring/spring/di/undefined.md)
   * [Filter와 Interceptor](spring/spring/filter-interceptor.md)
 * [Spring Data JPA](spring/spring-data-jpa/README.md)
   * [N+1 문제가 무엇이고, 해결 방법은 어떤 것인가?(작성중)](spring/spring-data-jpa/n+1.md)
