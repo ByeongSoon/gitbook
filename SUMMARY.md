@@ -61,6 +61,7 @@
   * [Stream이란?](language/java/stream.md)
   * [stream method 중 map과 flatmap 차이점](language/java/stream-method-map-flatmap.md)
   * [람다식(Lambda Expression)이란?](<language/java/undefined (1).md>)
+  * [Java의 특징이란?](language/java/java.md)
 * [Kotlin](language/kotlin.md)
 
 ## Database
