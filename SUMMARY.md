@@ -30,17 +30,17 @@
     * [객체지향 5대 원칙 - SOLID](basic/oop/5-solid.md)
   * [형상관리란 무엇인가?](basic/undefined-3.md)
 
-## Spring
+## Framework
 
-* [Spring](spring/spring/README.md)
-  * [@Transactional에 대해서 설명해주세요.](spring/spring/transactional-..md)
-  * [스프링 의존성 주입 방법 3가지는?](spring/spring/3.md)
-  * [스프링 트라이앵글 - IoC, AOP, PSA](spring/spring/di-ioc-psa-aop.md)
-  * [스프링 DI](spring/spring/di/README.md)
-    * [같은 인터페이스의 구현체 클래스 두 개 이상이 빈으로 등록되면 어떻게 의존성을 주입 할 수 있는가?](spring/spring/di/undefined.md)
-  * [Filter와 Interceptor](spring/spring/filter-interceptor.md)
-* [Spring Data JPA](spring/spring-data-jpa/README.md)
-  * [N+1 문제가 무엇이고, 해결 방법은 어떤 것인가?(작성중)](spring/spring-data-jpa/n+1.md)
+* [Spring](framework/spring/README.md)
+  * [@Transactional에 대해서 설명해주세요.](framework/spring/transactional-..md)
+  * [스프링 의존성 주입 방법 3가지는?](framework/spring/3.md)
+  * [스프링 트라이앵글 - IoC, AOP, PSA](framework/spring/ioc-aop-psa.md)
+  * [스프링 DI](framework/spring/di/README.md)
+    * [같은 인터페이스의 구현체 클래스 두 개 이상이 빈으로 등록되면 어떻게 의존성을 주입 할 수 있는가?](framework/spring/di/undefined.md)
+  * [Filter와 Interceptor](framework/spring/filter-interceptor.md)
+* [Spring Data JPA](framework/spring-data-jpa/README.md)
+  * [N+1 문제가 무엇이고, 해결 방법은 어떤 것인가?(작성중)](framework/spring-data-jpa/n+1.md)
 
 ## Language
 
@@ -68,13 +68,12 @@
 
 ## Database
 
-* [Basic](database/basic/README.md)
-  * [옵티마이저란 무엇인가?](database/basic/undefined.md)
-  * [데이터베이스의 부하 분산을 위한 방법으로 사용되는 클러스터링, 리플리케이션, 샤딩이란 무엇인가?](database/basic/undefined-1.md)
-  * [트랜잭션 격리수준(Isolation Level)이란?(링크)](database/basic/isolation-level.md)
-  * [낙관적 락(Optimistic Lock) 과 비관적 락(Pessimistic Lock)이란?](database/basic/optimistic-lock-pessimistic-lock.md)
-  * [RDB와 NoSQL 데이터베이스의 차이점은?](database/basic/rdb-nosql/README.md)
-    * [Redis란 무엇인가?](database/basic/rdb-nosql/redis.md)
-  * [Redis란?](database/basic/redis.md)
-  * [인덱스(Index)란?](database/basic/index.md)
-  * [MySQL에서 Join과 UNION의 차이점은?](database/basic/mysql-join-union.md)
+* [옵티마이저란 무엇인가?](database/undefined.md)
+* [데이터베이스의 부하 분산을 위한 방법으로 사용되는 클러스터링, 리플리케이션, 샤딩이란 무엇인가?](database/undefined-1.md)
+* [트랜잭션 격리수준(Isolation Level)이란?(링크)](database/isolation-level.md)
+* [낙관적 락(Optimistic Lock) 과 비관적 락(Pessimistic Lock)이란?](database/optimistic-lock-pessimistic-lock.md)
+* [RDB와 NoSQL 데이터베이스의 차이점은?](database/rdb-nosql/README.md)
+  * [Redis란?](database/rdb-nosql/redis.md)
+  * [Redis란 무엇인가?](database/rdb-nosql/redis-1.md)
+* [인덱스(Index)란?](database/index.md)
+* [MySQL에서 Join과 UNION의 차이점은?](database/mysql-join-union.md)
