@@ -82,6 +82,7 @@
   * [Redis란 무엇인가?](database/rdb-nosql/redis-1.md)
 * [인덱스(Index)란?](database/index.md)
 * [MySQL에서 Join과 UNION의 차이점은?](database/mysql-join-union.md)
+* [클러스터드 인덱스 (Clustered Index), 넌 클러스터드 인덱스 (Non Clustered Index)(작성중)](database/clustered-index-non-clustered-index.md)
 
 ## Design Pattern
 
